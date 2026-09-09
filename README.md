@@ -72,18 +72,13 @@ Display all filtered images using a grid layout for comparison.
 
 ##  Output
 
-<img width="725" height="358" alt="image" src="https://github.com/user-attachments/assets/6803e104-c370-4f1f-8369-ff448553e658" />
+<img width="516" height="249" alt="image" src="https://github.com/user-attachments/assets/ceb3ee91-d9fa-4453-9eb5-8c9240b5da55" />
+<img width="717" height="334" alt="image" src="https://github.com/user-attachments/assets/ad0d7c07-8dda-4592-9daa-f45a0efa4738" />
+<img width="516" height="249" alt="image" src="https://github.com/user-attachments/assets/cc00f536-0a8c-4ace-9a74-0810a54b7b8e" />
+<img width="533" height="249" alt="image" src="https://github.com/user-attachments/assets/8c1d1a55-0553-44e6-855f-f5086c4c54e6" />
+<img width="717" height="334" alt="image" src="https://github.com/user-attachments/assets/81434cf8-a682-4262-ae66-f7af7226f818" />
 
-<img width="558" height="266" alt="image" src="https://github.com/user-attachments/assets/86acff4a-1a13-4ec1-b4fe-dcb917c06de6" />
-
-<img width="528" height="263" alt="image" src="https://github.com/user-attachments/assets/8b7394b5-34a9-407a-add8-d33de7cc32fe" />
-
-<img width="745" height="353" alt="image" src="https://github.com/user-attachments/assets/0aa87d35-a85e-4cb2-86aa-e1aaf7633d0a" />
-
-<img width="559" height="263" alt="image" src="https://github.com/user-attachments/assets/aaf1faaa-2119-4041-aad7-bb166f135910" />
-
-<img width="576" height="253" alt="image" src="https://github.com/user-attachments/assets/5d59e6b9-ac21-4ff5-8420-983d59d60884" />
-
+<img width="516" height="249" alt="image" src="https://github.com/user-attachments/assets/a03416b3-0337-405b-8f2a-6b6126bf7916" />
 
 ### Smoothing Filters
 
